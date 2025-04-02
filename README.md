@@ -9,7 +9,8 @@
 
 # GitHub Pages
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
+_Create a site or blog from your GitHub repositories with GitHub Pages._(Please refer directly to the start file
+)请直接观看start文件
 
 </header>
 
