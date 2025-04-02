@@ -1,0 +1,15 @@
+2025.4.2  --- 现在晚上12：00（中文，Chinese）
+今天开始这个项目，做无人机，我的第一个想法是先让无人机飞来，然后再一步一步迭代更新无人机。
+目前想法：
+1.挑一款cpu作为控制器
+2.选一个蓝牙（尽可能可以加入sm卡）
+3.选4个电机
+4.选一个骨架
+
+2025.4.2- Now 12:00 PM (English)
+Today I started this project on drones. My first idea was to have the drones fly in first, and then iterate and update them step by step.
+Current idea:
+1. Choose a CPU as the controller
+2. Choose a Bluetooth (try to add SM card as much as possible)
+3. Select 4 motors
+4. Choose a skeleton
